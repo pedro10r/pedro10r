@@ -1,5 +1,5 @@
 ## Pedro Santos
-#### Mobile Developer at corebiz.
+#### Mobile Developer
 <br>
 <a href="https://github.com/PedroSantosRocha">
 <div align="center">
