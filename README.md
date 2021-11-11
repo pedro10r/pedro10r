@@ -21,18 +21,18 @@ But, I also used it in projects:
 &nbsp;
 <img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="35px"/>  
 &nbsp;
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
-&nbsp;
-<img src="https://img.icons8.com/color/452/mongodb.png" height="35px"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/> 
-&nbsp;
 <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
+&nbsp;
+<img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" />
+&nbsp;
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/> 
 &nbsp;
 <img src="https://img.icons8.com/color/452/firebase.png" height="35px" />   
 &nbsp;
-<img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" />
-&nbsp; 
+<img src="https://img.icons8.com/color/452/mongodb.png" height="35px"/>
+&nbsp;
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
+&nbsp;
 </p>
 
 <br>
