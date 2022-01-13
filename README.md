@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-**I'm Pedro Henrique Santos Rocha 👨‍💻**. Currently I'm a mobile developer at Corebiz.
+**I'm Pedro Henrique Santos Rocha 👨‍💻**. Currently I'm a mobile developer at Rentbrella.
 
 Currently my stack is: 
 
