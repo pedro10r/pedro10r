@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-**I'm Pedro Henrique Santos Rocha 👨‍💻**. Currently I'm a mobile developer at Rentbrella.
+**I'm Pedro Rocha 👨‍💻**. Currently I'm a mobile developer at Rentbrella.
 
 Currently my stack is: 
 
@@ -32,11 +32,11 @@ But, I also used it in projects:
 </p>
 
 <br>
-<a href="https://github.com/PedroSantosRocha">
+<a href="https://github.com/pedro10r">
 <div align="center">
   Stats Github
 <br>
 <br>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroSantosRocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantosRocha&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedro10r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro10r&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
 </div>
