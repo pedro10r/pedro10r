@@ -1,11 +1,11 @@
 ### Hey there 👋
 
-**I'm Pedro Rocha 👨‍💻**. Currently I'm a mobile developer at Rentbrella.
+**I'm Pedro Rocha 👨‍💻**. Currently I'm a mobile developer.
 
 Currently my stack is: 
 
 :iphone: - Mobile applications for Android and iOS with **React Native** <br/>
-:computer: - Web front-end development with **ReactJs**, back-end with **NodeJS** and **Ruby** <br/>
+:computer: - Web front-end development with **ReactJs**, back-end with **NodeJS** <br/>
 :floppy_disk: - Database: **Postgres**, **Mongo**, **MySQL** <br/>
 
 But, I also used it in projects:
