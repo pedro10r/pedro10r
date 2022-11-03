@@ -15,6 +15,10 @@ But, I also used it in projects:
 &nbsp;  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
 &nbsp;
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="35px"/>
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png?20180308172936" height="35px"/>
+&nbsp;
 <img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="35px"/>  
 &nbsp;
 <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
@@ -31,10 +35,11 @@ But, I also used it in projects:
 &nbsp;
 </p>
 
+
 <br>
 <a href="https://github.com/pedro10r">
 <div align="center">
-  Stats Github
+  Github Stats
 <br>
 <br>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedro10r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
