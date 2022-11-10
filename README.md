@@ -19,6 +19,8 @@ But, I also used it in projects:
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png?20180308172936" height="35px"/>
 &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" height="35px"/>
+&nbsp;
 <img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="35px"/>  
 &nbsp;
 <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
