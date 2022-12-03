@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-**I'm Pedro Rocha 👨‍💻**. Currently I'm a mobile developer.
+**I'm Pedro Rocha 👨‍💻**. Currently I'm a mobile developer at Mesa Mobile Thinking.
 
 Currently my stack is: 
 
