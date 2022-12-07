@@ -12,10 +12,12 @@ But, I also used it in projects:
 
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
-&nbsp;  
+&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
 &nbsp;
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="35px"/>
+&nbsp;
+<img src="https://user-images.githubusercontent.com/10525473/50372432-95dcd880-0611-11e9-9432-58de9be26b3b.png" height="35px"/>
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png?20180308172936" height="35px"/>
 &nbsp;
