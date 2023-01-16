@@ -5,8 +5,8 @@
 Currently my stack is: 
 
 :iphone: - Mobile applications for Android and iOS with **React Native** <br/>
-:computer: - Web front-end development with **ReactJs**, back-end with **NodeJS** <br/>
-:floppy_disk: - Database: **Postgres**, **Mongo**, **MySQL** <br/>
+:computer: - Web front-end development with **ReactJs** <br/>
+:floppy_disk: - Database: **Postgres**, **MongoDB**, **MySQL** <br/>
 
 <br>
 
