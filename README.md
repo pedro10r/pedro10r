@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-**I'm Pedro Rocha 👨‍💻**. Currently I'm a Software Engineer Mobile at [Mesa Mobile Thinking](https://www.mesainc.com.br)
+**I'm Pedro Rocha 👨‍💻**. Currently I'm a Mobile Software Engineer at [Mesa Mobile Thinking](https://www.mesainc.com.br)
 
 Currently my stack is: 
 
