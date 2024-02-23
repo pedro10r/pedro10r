@@ -1,16 +1,13 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+### Hi, I'm Pedro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-**I'm Pedro Rocha 👨‍💻**. Currently I'm a Mobile Software Engineer at [Mesa Mobile Thinking](https://www.mesainc.com.br)
+I'm a Software Engineer. My specialty is developing Android and iOS Mobile Apps with React Native.<br>
+I also have knowledge with Web development.
 
-Currently my stack is: 
-
-:iphone: - Mobile applications for Android and iOS with **React Native** <br/>
-:computer: - Web front-end development with **ReactJs** <br/>
-:floppy_disk: - Database: **Postgres**, **MongoDB**, **MySQL** <br/>
+Currently I'm a Mobile Software Engineer at [Mesa Mobile Thinking](https://www.mesainc.com.br).
 
 <br>
 
-But, I also used it in projects:
+What I use in my projects:
 
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
