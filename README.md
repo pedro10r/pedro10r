@@ -41,12 +41,6 @@ But, I also used it in projects:
   &nbsp;
 </p>
 
-
 <br>
-<div align="center">
- Github Stats
-  <br>
-  <br>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedro10r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedro10r&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
-</div>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Rocha-9966ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro10r/)](https://www.linkedin.com/in/pedro10r/) 
